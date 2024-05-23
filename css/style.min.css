@@ -238,7 +238,9 @@ h6 {
 .h1,
 h1 {
     font-size: 4.375rem;
-    line-height: 4.375rem
+    line-height: 5.375rem;
+    background-color:#004a6b;
+    color:#ffffff;
 }
 
 .h2,
